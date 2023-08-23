@@ -948,6 +948,8 @@ details > p {
   z-index: -1;
   border-radius: 999px;
   width: 280px;
+  width: 200px;
+  height: 200px;
 }
 
 .avatar:hover {
